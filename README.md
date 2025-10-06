@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Data Analyst who believes in continues learning.</h3>
 
 
-<img allign="right" alt="codding " width ="400" src="![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966-1](https://github.com/user-attachments/assets/1e708548-4e41-425e-a823-1e8551d2474c)
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966-1](https://github.com/user-attachments/assets/1e708548-4e41-425e-a823-1e8551d2474c)
 
-" >
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
